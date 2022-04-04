@@ -5,7 +5,7 @@
     "schedule": [],
     "dependencyDashboardApproval": false,
     "commitMessageSuffix": "[SECURITY]",
-    "branchTopic": "{{{datasource}}}-{{{depName}}}-vulnerability",
+    "groupName": "Spring framework vulnerabilities",
     "prCreation": "immediate",
     "prBodyNotes": ["This PR upgrades `{{depName}}` to fix a critical vulnerability in the Spring framework. For details about this problem, read [here](https://www.whitesourcesoftware.com/resources/blog/spring4shell-vulnerability/)."],
     "isVulnerabilityAlert": true
