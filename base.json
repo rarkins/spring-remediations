@@ -7,7 +7,7 @@
     "commitMessageSuffix": "[SECURITY]",
     "groupName": "vulnerable Spring framework packages",
     "prCreation": "immediate",
-    "prBodyNotes": ["This PR upgrades `{{depName}}` to fix a critical vulnerability in the Spring framework. For details about this problem, read [here](https://www.whitesourcesoftware.com/resources/blog/spring4shell-vulnerability/)."],
+    "prBodyNotes": ["This PR upgrades one or more Spring framework packages to fix a critical vulnerability. For details about this problem, read [here](https://www.whitesourcesoftware.com/resources/blog/spring4shell-vulnerability/)."],
     "isVulnerabilityAlert": true
   }
 }
