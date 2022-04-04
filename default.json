@@ -62,7 +62,7 @@
         "org.springframework.boot:spring-boot-test",
         "org.springframework.boot:spring-boot"
       ],
-      "matchCurrentVersion": "(,2.5.12)",
+      "matchCurrentVersion": "[2.0.0,2.5.12)",
       "allowedVersions": "[2.5.12,2.6.0)"
     },
     {
@@ -150,7 +150,7 @@
         "org.springframework:spring-webmvc",
         "org.springframework:spring-websocket"
       ],
-      "matchCurrentVersion": "(,5.2.20.RELEASE)",
+      "matchCurrentVersion": "[5.0.0,5.2.20.RELEASE)",
       "allowedVersions": "[5.2.20.RELEASE,5.3.0)"
     },
     {
