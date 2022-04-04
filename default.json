@@ -1,29 +1,4 @@
 {
-  "extends": [
-    "group:springAmqp",
-    "group:springAndroid",
-    "group:springBatch",
-    "group:springBoot",
-    "group:springCloud",
-    "group:springCore",
-    "group:springData",
-    "group:springHateoas",
-    "group:springIntegration",
-    "group:springKafka",
-    "group:springLdap",
-    "group:springMobile",
-    "group:springOsgi",
-    "group:springRestDocs",
-    "group:springRoo",
-    "group:springScala",
-    "group:springSecurity",
-    "group:springSession",
-    "group:springShell",
-    "group:springSocial",
-    "group:springStatemachine",
-    "group:springWebflow",
-    "group:springWs"
-  ],
   "packageRules": [
     {
       "extends": [
