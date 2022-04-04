@@ -2,7 +2,7 @@
   "packageRules": [
     {
       "extends": [
-        "github>rarkins/spring-remediations"
+        "github>renovatebot/spring-remediations"
       ],
       "matchPackageNames": [
         "org.springframework.boot:spring-boot-actuator-autoconfigure",
