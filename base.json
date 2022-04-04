@@ -2,7 +2,6 @@
   "enabled": true,
   "force": {
     "automerge": false,
-    "groupName": null,
     "schedule": [],
     "dependencyDashboardApproval": false,
     "commitMessageSuffix": "[SECURITY]",
