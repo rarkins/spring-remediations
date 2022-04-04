@@ -1,5 +1,6 @@
 {
   "enabled": true,
+  "automerge": false,
   "groupName": null,
   "schedule": [],
   "dependencyDashboardApproval": false,
