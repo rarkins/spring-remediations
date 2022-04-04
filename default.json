@@ -67,7 +67,7 @@
     },
     {
       "extends": [
-        "github>rarkins/spring-remediations//base"
+        "github>renovatebot/spring-remediations//base"
       ],
       "matchPackageNames": [
         "org.springframework.boot:spring-boot-actuator-autoconfigure",
@@ -132,7 +132,7 @@
     },
     {
       "extends": [
-        "github>rarkins/spring-remediations//base"
+        "github>renovatebot/spring-remediations//base"
       ],
       "matchPackageNames": [
         "org.springframework:spring-aop",
@@ -155,7 +155,7 @@
     },
     {
       "extends": [
-        "github>rarkins/spring-remediations//base"
+        "github>renovatebot/spring-remediations//base"
       ],
       "matchPackageNames": [
         "org.springframework:spring-aop",
